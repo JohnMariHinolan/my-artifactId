@@ -60,3 +60,5 @@
 0:0:0:0:0:0:0:1 - - [22/Apr/2014:16:23:22 +0800] "GET /my-artifactId/signup HTTP/1.1" 500 920 http-bio-8080-exec-3 37668
 0:0:0:0:0:0:0:1 - - [22/Apr/2014:16:23:27 +0800] "GET /my-artifactId/resources/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-8080-exec-4 348
 0:0:0:0:0:0:0:1 - - [22/Apr/2014:16:23:27 +0800] "GET /my-artifactId/resources/css/core.css HTTP/1.1" 304 - http-bio-8080-exec-6 350
+0:0:0:0:0:0:0:1 - - [22/Apr/2014:16:32:19 +0800] "GET /my-artifactId/signup HTTP/1.1" 500 920 http-bio-8080-exec-1 6735
+0:0:0:0:0:0:0:1 - - [22/Apr/2014:16:34:49 +0800] "GET /my-artifactId/signup HTTP/1.1" 500 920 http-bio-8080-exec-7 958
